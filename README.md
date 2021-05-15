@@ -1,0 +1,1 @@
+# nifty-bank-predictor
